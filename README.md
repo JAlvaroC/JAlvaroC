@@ -9,7 +9,7 @@ en mi tiempo libre, apps útiles y gratuitas para el día a día.
 
 **Kipu** · Android · En prueba en Google Play<br />
 Anota gastos e ingresos en segundos, mira el resumen del mes y controla tus gastos deducibles.<br />
-<a href="https://juanalvaro.pages.dev/#apps">Conocer Kipu</a>
+<a href="https://juanalvaro.pages.dev/apps/kipu">Conocer Kipu</a>
 
 <br clear="left" />
 
@@ -17,7 +17,7 @@ Anota gastos e ingresos en segundos, mira el resumen del mes y controla tus gast
 
 **Mazo** · Android e iPhone · Pronto<br />
 Estudia con tarjetas y repaso espaciado. Incluye 423 preguntas para la certificación AWS.<br />
-<a href="https://juanalvaro.pages.dev/#apps">Conocer Mazo</a>
+<a href="https://juanalvaro.pages.dev/apps/mazo">Conocer Mazo</a>
 
 <br clear="left" />
 

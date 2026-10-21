@@ -5,17 +5,31 @@ en mi tiempo libre, apps útiles y gratuitas para el día a día.
 
 ### Mis apps
 
-| App | Qué hace | Plataforma | Estado |
-|---|---|---|---|
-| **Kipu** | Anota gastos e ingresos, mira el resumen del mes y controla tus gastos deducibles | Android | En prueba en Google Play |
-| **Mazo** | Estudia con tarjetas y repaso espaciado; incluye 423 preguntas para AWS | Android e iPhone | Pronto |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/kipu.png" width="64" alt="Ícono de Kipu" />
+      <h3>Kipu</h3>
+      <p>Anota gastos e ingresos en segundos, mira el resumen del mes y controla tus gastos deducibles.</p>
+      <p><sub>Android · En prueba en Google Play</sub></p>
+      <a href="https://juanalvaro.pages.dev/#apps">Conocer Kipu</a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/mazo.png" width="64" alt="Ícono de Mazo" />
+      <h3>Mazo</h3>
+      <p>Estudia con tarjetas y repaso espaciado. Incluye 423 preguntas para la certificación AWS.</p>
+      <p><sub>Android e iPhone · Pronto</sub></p>
+      <a href="https://juanalvaro.pages.dev/#apps">Conocer Mazo</a>
+    </td>
+  </tr>
+</table>
 
-El código de mis apps es privado. Puedes conocerlas y apoyarlas en **[juanalvaro.pages.dev](https://juanalvaro.pages.dev)**.
+Mis apps son gratis y sin anuncios. Si alguna te sirve, puedes **[apoyarlas](https://juanalvaro.pages.dev/#apoyar)**.
 
 ### Con qué trabajo
 
-Vue.js · React · Next.js · Astro · Node.js · NestJS · React Native (Expo) · Kotlin Multiplatform · AWS Lambda · PostgreSQL · MySQL · SQLite
+`Vue.js` `React` `Next.js` `Astro` `Node.js` `NestJS` `React Native` `Kotlin Multiplatform` `AWS Lambda` `PostgreSQL` `MySQL` `SQLite`
 
 ### Dónde encontrarme
 
-[Web](https://juanalvaro.pages.dev) · [LinkedIn](https://www.linkedin.com/in/juanalvaroc)
+[juanalvaro.pages.dev](https://juanalvaro.pages.dev) · [LinkedIn](https://www.linkedin.com/in/juanalvaroc)
